@@ -1,6 +1,3 @@
-// Cole aqui a configuração do SEU projeto Firebase:
-// Firebase Console > Configurações do projeto > Seus apps > App da Web > "Config"
-// (Essas chaves do app web podem ficar no código; quem protege os dados são as regras do Firestore.)
 import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-app.js";
 import { getAuth } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-auth.js";
 import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
